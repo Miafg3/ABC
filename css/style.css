@@ -1,4 +1,4 @@
-:root {
+/* :root {
     --color-primario: #151533;
     --texto-primario: #BDA90F;
     --texto-secundario: #FFFFFF;
@@ -27,7 +27,7 @@ body {
     padding: 1.5rem;
 }
 
-/* nav */
+nav
 
 .nav-bar {
     display: flex;
@@ -65,4 +65,4 @@ body {
 .sign-up:hover {
     cursor: pointer;
     color: var(--texto-primario);
-}
+} */
